@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LaboratorioPokeAPI</string>
+    <string name="titulo_lista_pokemon">Pokedex 2021</string>
+    <string name="subtitulo_lista_pokemon">Lenguajes para aplicaciones comerciales</string>
+    <string name="acceder_lista_pokemon">Pokedex</string>
+    <string name="numero_pokemon">N°</string>
+    <array name="pokeName">
+        <item>Bulbasaur</item>
+        <item>Ivysaur</item>
+        <item>Venusaur</item>
+    </array>
+</resources>
